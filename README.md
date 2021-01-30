@@ -5,6 +5,7 @@
 ### 2021.01.25 - Start Kouloud Study
 
 ### 21.01.30 Lecture
-- 홍유진 [Introduction]
-- 이지은 [KUBERNETES ARCHITECTURE 01]
-- 최수녕 [KUBERNETES ARCHITECTURE 02]
+- [홍유진 [Introduction]](#linked-github)
+- [이지은 [KUBERNETES ARCHITECTURE 01]](#linked-github)
+- [최수녕 [KUBERNETES ARCHITECTURE 02]](#linked-github)
+
