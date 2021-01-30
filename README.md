@@ -1,4 +1,4 @@
-# Kuloud_k8s_study_docs
+# Kuloud_k8s_study
 
 쿠라우드 쿠버네티스 스터디 입니다.
 
