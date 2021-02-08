@@ -4,6 +4,8 @@
 
 ### 2021.01.25 - Start Kouloud Study
 
+노션 주소 : https://www.notion.so/Kuloud-7f8217ba1de44f3eb0b0573abe5b6283
+
 ### 21.01.30 First Session
 
 - [홍유진 [Introduction]](https://github.com/redcarrot01/Kubernetes_for_Developers/blob/main/%EB%A0%88%EC%8A%A8%20-%2001%20%EC%86%8C%EA%B0%9C.md)
