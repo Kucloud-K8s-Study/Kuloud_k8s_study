@@ -4,7 +4,7 @@
 
 ### 2021.01.25 - Start Kouloud Study
 
-노션 주소 : https://www.notion.so/Kuloud-7f8217ba1de44f3eb0b0573abe5b6283
+[노션 주소](https://www.notion.so/Kuloud-7f8217ba1de44f3eb0b0573abe5b6283)
 
 ### 21.01.30 First Session
 
