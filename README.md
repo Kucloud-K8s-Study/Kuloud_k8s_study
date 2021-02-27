@@ -12,3 +12,4 @@
 - [이지은 [KUBERNETES ARCHITECTURE 01]](https://github.com/Kucloud-K8s-Study/Kuloud_k8s_study/blob/main/Kuloud_Lecture/02.%20KUBERNETES%20ARCHITECTURE.pdf)
 - [최수녕 [KUBERNETES ARCHITECTURE 02]](https://www.notion.so/07d9098954b748c9b7a3093cc73414b7?v=25756e2b3fbd4148a03bde52d091af05&p=c6d4d3f6caf64b439908987669b55afb)
 - [주성우 [KUBERNETES Design-exercise 04]](https://github.com/Kucloud-K8s-Study/Kuloud_k8s_study/blob/main/Kuloud_Lecture/04_Design_exercise.md)
+- [홍유진 [07 EXPOSING APPLICATIONS_01]](https://github.com/redcarrot01/Kubernetes_for_Developers/blob/main/07%20EXPOSING%20APPLICATIONS_1.md)
